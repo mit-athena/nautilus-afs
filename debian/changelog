@@ -1,3 +1,9 @@
+debathena-nautilus-afs (2.1.1-0debathena1) UNRELEASED; urgency=low
+
+  * Upstream version 2.1.1.
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Sun, 23 Feb 2014 22:13:08 -0500
+
 debathena-nautilus-afs (2.1) unstable; urgency=low
 
   * Fix bug which didn't reset "add" dialog after cancel (Trac: #1339)
