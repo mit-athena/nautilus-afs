@@ -1,8 +1,10 @@
-debathena-nautilus-afs (2.1.1-0debathena1) UNRELEASED; urgency=low
+debathena-nautilus-afs (2.1.1-0debathena1) unstable; urgency=low
 
   * Upstream version 2.1.1.
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (quilt)
 
- -- Victor Vasiliev <vasilvv@mit.edu>  Sun, 23 Feb 2014 22:13:08 -0500
+ -- Victor Vasiliev <vasilvv@mit.edu>  Sun, 23 Feb 2014 22:15:02 -0500
 
 debathena-nautilus-afs (2.1) unstable; urgency=low
 
